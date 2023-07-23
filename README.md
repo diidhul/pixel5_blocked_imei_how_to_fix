@@ -6,6 +6,6 @@ Yesterday i bought a second phone from local marketplace, after few days the pho
 ## Important Things
 **USE IT AT YOUR OWN RISK !!!**
 
-### before we go more further... IMEI is a unique identification number programmed onto your phone. It is required in order to be correctly identified on a mobile network. Without one, you cannot make calls, send SMS or use mobile data. I live in Indonesia, and every smartphone that enters Indonesia must register its IMEI at the ministry. they call it KEMENPERIN dan BEA CUKAI.
+### Resetting your IMEI is prohibited in some countries, and is a criminal act that may be charged with smuggling goods. Use this thread wisely. The author is not responsible for security and other matters that will be accepted by you. SO USE IT AT YOUR OWN RISK!!!
 
 ## Needed Files
