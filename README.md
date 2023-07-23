@@ -1,1 +1,1 @@
-# pixel5_blocked_imei_how_to_fix
+# HOW TO FIX BLOCKED IMEI ON PIXEL 5
